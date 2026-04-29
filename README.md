@@ -31,29 +31,32 @@ Key metrics such as demand trends, pricing impact, and seasonality were visualiz
 
 Key Insights
 
-* The Groceries category generates the highest demand compared to other categories.
-* Promotional campaigns significantly boost demand and account for a large share of total sales.
-* There is a negative correlation between price and demand — higher prices lead to lower demand.
-* Discounts increase demand initially, but their effectiveness decreases beyond a certain threshold.
-* Demand varies across months, indicating possible seasonal trends.
-* Total demand (8M) and units sold (7M) are closely aligned, suggesting stable pricing behavior.
-
+Groceries category generates the highest demand
+Promotions significantly increase demand and drive a large portion of sales
+There is a negative relationship between price and demand
+Competitor pricing has a noticeable influence on demand behavior
+Discounts increase demand initially, but show diminishing returns beyond a certain level
+Demand varies across months, indicating seasonal patterns
+Total demand (8M) and units sold (7M) are closely aligned, suggesting stable sales dynamics
 ⸻
 
 Recommendations
 
-* Prioritize high-demand categories like Groceries for marketing and inventory planning.
-* Use promotions strategically, as they have a strong positive impact on demand.
-* Optimize pricing strategies to balance profitability and demand.
-* Avoid excessive discounting, as it does not proportionally increase demand.
-* Further analyze seasonal patterns to improve forecasting and planning.
+Prioritize high-demand categories like Groceries in inventory and marketing
+Use promotions strategically, focusing on optimal timing and targeting
+Implement competitive pricing strategies based on market conditions
+Avoid excessive discounting to protect profitability
+Leverage seasonal trends for better demand forecasting and planning
 
 ⸻
 
 Business Value
 
 This dashboard helps stakeholders:
+This dashboard enables stakeholders to:
 
-* Understand the key factors influencing demand
-* Make data-driven pricing and promotion decisions
-* Improve sales performance and planning strategies
+Understand key factors influencing demand
+Make data-driven pricing and promotion decisions
+Identify lost sales due to stock-outs
+Improve inventory planning and sales performance
+Support strategic business decisions with data insights
